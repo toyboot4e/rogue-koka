@@ -1,0 +1,8 @@
+.koka/
+out/
+
+*.exe
+
+.direnv/
+result
+result-*
