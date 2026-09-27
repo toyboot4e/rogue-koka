@@ -19,6 +19,7 @@
           default = pkgs.mkShell {
             packages = [
               pkgs.koka
+              pkgs.just
               pkgs.clang
             ];
           };
